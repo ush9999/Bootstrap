@@ -1,0 +1,82 @@
+body{
+font-family:"Roboto" sans-serif;
+
+}
+
+
+header{
+
+    background: linear-gradient(180deg, #c4b6fd, #93acfc )
+}
+
+
+
+.navbar-brand{
+
+
+    color: #550076;
+
+}
+
+.text-pri{
+    color: rgb(140, 5, 181);
+}
+
+.btn-primary{
+    background-color: #840cc0;
+    border:none ;
+}
+
+
+.nav-link:hover{
+    color: #550076;
+
+}
+
+p{
+
+    font-size: 18px;
+
+}
+
+.btn-primary:hover{
+
+    background-color: #33005b;
+}
+
+
+.blue-bg{
+
+background-color: #8c10ff;
+color: #270038;
+
+}
+
+.icons{
+  height: 32px;
+  width: 32px;
+  margin-bottom: 16px;
+  background-color: rgb(255, 255, 255);
+    color: #550076;
+    padding: 6px;
+}
+
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-link.active{
+
+border:none;
+
+}
+
+.nav-tabs{
+
+    border: none;
+    background-color: #ffffff;
+    color: rgb(165, 0, 254) ;
+    padding: 4px 8px;
+
+
+}
+
+
+
